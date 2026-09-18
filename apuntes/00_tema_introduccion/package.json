@@ -1,0 +1,13 @@
+{
+  "name": "00_tema_introduccion",
+  "version": "1.0.0",
+  "description": "Ejemplo basico uso de JavaScript",
+  "main": "ejercicio1.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lanzar": "node ejercicio1.js"
+  },
+  "author": "Gregorio Lopez",
+  "license": "ISC"
+}
